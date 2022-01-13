@@ -25,7 +25,7 @@
 </h1>
 <h2>
     <center>
-    Kabir Goel, Siddarth Kappa, Dylan Sheehan
+    Dylan Sheehan
     </center>
 </h2>
 <h3>
